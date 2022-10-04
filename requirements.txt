@@ -1,0 +1,5 @@
+setuptools==59.5.0
+torch
+transformers
+scikit-learn
+pytorch-lightning
